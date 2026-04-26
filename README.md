@@ -1,5 +1,7 @@
 # Analysis-of-Authentication-Systems
 
+To read the report, download CPTS427ProjectReport.pdf. To read the instructions for the demo, read Instructions.md
+
 **project overview and goals**
 In this project, I compare and analyze RADIUS, TACACS+, LDAP, and OAuth as authentication and identity technologies. These are common technologies used to authorize, authenticate, or perform accounting across networks and infrastructures, or even all three. The purpose of this project is to see which technology is suited for which use case, as well as any vulnerabilities or best practices needed to ensure security. Real world breaches of these technologies will also be examined, with recommendations suggested for how to properly handle these breaches. Additionally, there is a demo of a FreeRADIUS server demonstrating how the shared secret is used to verify authentication.
 
